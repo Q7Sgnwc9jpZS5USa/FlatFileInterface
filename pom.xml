@@ -53,5 +53,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<dependencies><dependency><groupId>commons-io</groupId><artifactId>commons-io</artifactId><version>2.3</version></dependency></dependencies>
+	<dependencies><dependency><groupId>commons-io</groupId><artifactId>commons-io</artifactId><version>2.7</version></dependency></dependencies>
 </project>
